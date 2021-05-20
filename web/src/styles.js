@@ -1,5 +1,5 @@
 import { makeStyles } from '@material-ui/core';
-import { teal } from '@material-ui/core/colors';
+import { grey } from '@material-ui/core/colors';
 
 export default makeStyles(() => ({
   root: {
@@ -13,6 +13,6 @@ export default makeStyles(() => ({
     flexBasis: 'auto'
   },
   navbar: {
-    backgroundColor: teal[900]
+    backgroundColor: grey[900]
   }
-}))
+}));
