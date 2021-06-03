@@ -2,8 +2,8 @@
 #include<DHT.h>
 #include<ThingSpeak.h>
 
-#define SSID "Batcaverna"
-#define SENHA "sbv@51220"
+#define SSID "REDE"
+#define SENHA "SENHA"
 
 #define CHANNEL_ID 1375804
 #define WRITE_API_KEY "VQJFWGOIRUUHXIA9"
