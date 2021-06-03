@@ -14,5 +14,14 @@ export default makeStyles(() => ({
   },
   navbar: {
     backgroundColor: grey[900]
+  },
+  temperatureColor: {
+    color: '#FF3068'
+  },
+  umidityColor: {
+    color: '#288FFC'
+  },
+  groundUmidityColor: {
+    color: '#FFD65B'
   }
 }));
